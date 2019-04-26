@@ -1,0 +1,1437 @@
+original_id,wiki_id,wiki_name,match_score
+1,Q66107,Henry Kissinger,0.5
+2,Q23685,Jimmy Carter,0.5
+3,Q296661,Cyrus Vance,0.5
+4,Q9582,Gerald Ford,0.5
+5,Q42013,Anwar as-Sadat,0.5
+7,Q959635,Andrew Young,0.5
+8,Q1260,Kurt Waldheim,0.5
+9,Q9588,Richard Nixon,0.5
+10,Q296661,Cyrus Vance,0.5
+12,Q146906,Hussein I.,0.5
+13,Q294358,Warren Christopher,0.5
+14,Q235699,Amy Beach,0.035714285714286
+15,Q219353,Rosalynn Carter,0.5
+16,Q128245,Mohammad Reza Pahlavi,0.5
+17,Q2516,Helmut Schmidt,0.5
+18,Q186525,Julius Nyerere,0.5
+20,Q2006144,William E. Simon,0.5
+22,Q62988,W. Michael Blumenthal,0.5
+23,Q11237,Nelson Rockefeller,0.5
+24,Q164535,Mobutu Sese Seko,1.0
+25,Q130873,Menachem Begin,0.5
+27,Q105480,Kenneth Kaunda,0.5
+28,Q1066362,Charles W. Robinson,0.5
+29,Q188783,Mosche Dajan,0.5
+30,Q671393,David D. Newsom,0.5
+31,Q7327552,Richard M. Moose,0.5
+32,Q20966290,Éder Antônio Souza,0.16666666666667
+33,Q1463,Ferdinand Marcos,0.5
+34,Q1626737,Lester L. Wolff,0.5
+35,Q972052,Philip Habib,0.5
+36,Q295790,Carlos Andrés Pérez,0.5
+37,Q1626737,Lester L. Wolff,0.5
+38,Q313424,Ian Smith,0.5
+39,Q470290,Joshua Nkomo,0.5
+40,Q130873,Menachem Begin,0.5
+41,Q184267,Andrei Gromyko,0.5
+42,Q69103,Hassan II.,0.5
+43,Q192634,Bülent Ecevit,0.5
+44,Q21509791,G.H. Dar,0.2
+47,Q168041,Zbigniew Brzezinski,0.5
+49,Q131355,Zulfiqar Ali Bhutto,0.5
+50,Q118725,Hafiz al-Assad,0.5
+51,Q552916,Harold Brown,0.5
+52,Q333085,David Owen,0.5
+53,Q4945222,Boris Chaliapin,0.5
+54,Q1875906,Jacob Koppel Javits,0.5
+56,Q9576,James Callaghan,0.5
+57,Q5429531,Fahd bin Salman bin Abdulaziz Al Saud,0.2
+58,Q80504,Nicolae Ceaușescu,0.5
+59,Q154545,Léopold Sédar Senghor,0.5
+62,Q106235,Hans-Dietrich Genscher,0.5
+66,Q34060,Yitzhak Rabin,0.5
+67,Q5476824,Terence Todman,0.5
+68,Q2096807,Stephen J. Solarz,0.5
+69,Q443777,Orlando Letelier,0.5
+70,Q336212,William R. Tolbert junior,0.5
+71,Q9161,Josip Broz Tito,0.5
+74,Q218443,Anastasio Somoza Debayle,0.5
+75,Q331742,George McGovern,0.5
+76,Q2158789,Robert S. Strauss,0.5
+78,Q49216,Walter Mondale,0.5
+79,Q128911,Ezer Weizman,0.5
+80,Q219918,Samora Machel,0.5
+81,Q310855,Houari Boumediene,0.5
+82,Q313903,B. J. Vorster,0.5
+83,Q311798,Yaafar al-Numeiry,0.5
+84,Q5080900,Charles Melvin Price,0.5
+85,Q719808,Elliot Richardson,0.5
+86,Q33700407,Andrew J. Young,0.5
+87,Q16005794,"Charles C. Diggs, Sr.",0.5
+88,Q318479,Abel Muzorewa,0.5
+89,Q38823,Ruhollah Chomeini,0.5
+90,Q2158789,Robert S. Strauss,0.5
+91,Q2124,Valéry Giscard d'Estaing,0.5
+92,Q155649,Richard Holbrooke,0.5
+93,Q134549,Ted Kennedy,0.5
+94,Q1149,Indira Gandhi,0.5
+95,Q202006,Olusegun Obasanjo,0.5
+96,Q561177,Kriangsak Chamanan,1.0
+97,Q8008305,"William E. Schaufele, Jr.",0.5
+98,Q156781,Mário Soares,0.5
+99,Q6771731,Marlene Garcia-Esperat,0.5
+100,Q323417,Abraham A. Ribicoff,0.5
+101,Q44819,Suharto,1.0
+102,Q319015,Yigal Allon,0.5
+103,Q561494,Pik Botha,0.5
+105,Q131248,Lee Kuan Yew,1.0
+106,Q366563,Dick Clark,0.5
+107,Q34211,Yasser Arafat,0.5
+108,Q822359,Kenneth Rush,0.5
+109,Q332055,Omar Torrijos,0.5
+110,Q200436,Rauf Denktaş,0.5
+112,Q4859312,Barbara Smuts,0.5
+113,Q16977,Deng Xiaoping,0.5
+114,Q48231,Idi Amin,0.5
+115,Q1706385,"Joseph A. Califano, Jr.",0.5
+116,Q10707,Robert Mugabe,0.5
+117,Q214450,Boniface Wimmer,0.5
+118,Q6791019,Matthew Nimetz,0.5
+119,Q15514927,William D. Rogers,0.5
+120,Q155402,Ahmed Sékou Touré,0.5
+121,Q167307,Dom Mintoff,0.5
+122,Q7350607,Robert Vesco,0.5
+123,Q733875,Elias Sarkis,0.5
+124,Q27913544,Christopher Paul,0.5
+125,Q307237,Abdul Halim Khaddam,0.5
+126,Q365395,Michael Manley,0.5
+127,Q2124,Valéry Giscard d'Estaing,0.5
+128,Q209828,Siad Barre,0.5
+129,Q521462,Joseph J. Sisco,0.5
+130,Q552389,Spyros Kyprianou,0.5
+131,Q7350607,Robert Vesco,0.5
+132,Q4797759,Arthur A. Hartman,0.5
+134,Q317681,Luis Echeverría Álvarez,0.5
+135,Q209989,Hubert Humphrey,0.5
+136,Q181665,Agostinho Neto,0.5
+137,Q218661,Morarji Desai,0.5
+138,Q6548136,Lillian Gordy Carter,0.5
+140,Q50005,Giulio Andreotti,0.5
+143,Q154104,Sam Nujoma,0.5
+142,Q12876016,Dimitrios Bitsios,0.5
+144,Q44517,Bruno Kreisky,0.5
+145,Q1064126,Charles Diggs,0.5
+146,Q6742685,Malcolm Toon,0.5
+147,Q1889152,Mike Mansfield,0.5
+148,Q315584,Takeo Fukuda,0.5
+150,Q171989,James R. Schlesinger,0.5
+151,Q373578,Frederick B. Dent,0.5
+152,Q2096807,Stephen J. Solarz,0.5
+153,Q380975,Manuel González Flores,0.5
+154,Q156806,Konstantinos Karamanlis,0.33333333333333
+155,Q183469,Juanita M. Kreps,0.5
+156,Q11239,David Rockefeller,0.5
+157,Q638644,Frank Press,0.5
+158,Q333309,"Ivor Richard, Baron Richard",0.5
+159,Q7327984,Richard N. Cooper,0.5
+162,Q2158692,Robert S. Ingersoll,0.5
+164,Q2514,Willy Brandt,0.5
+166,Q643348,Habib Bourguiba,0.5
+168,Q172083,Omar Bongo,0.5
+169,Q7416,Margaret Thatcher,0.5
+170,Q365323,Adolph Dubs,0.5
+171,Q182372,Louise Fletcher,0.14285714285714
+172,Q41570,Hua Guofeng,0.5
+173,Q26253734,Charles Greatheed Bertie Percy,0.5
+174,Q151729,Süleyman Demirel,0.5
+175,Q11256,Fidel Castro,0.5
+178,Q160318,Norodom Sihanouk,0.5
+177,Q7327552,Richard M. Moose,0.5
+176,Q1257,Boutros Boutros-Ghali,0.5
+179,Q214407,Félix Houphouët-Boigny,0.5
+180,Q49068,Samuel W. Lewis,0.5
+182,Q76297,Adam Malik,0.5
+184,Q2006144,William E. Simon,0.5
+185,Q597630,Clement J. Zablocki,0.5
+186,Q12088099,Ващенко Василь Семенович,0.5
+187,Q1094716,Claiborne Pell,0.5
+188,Q4516981,Alexander Chmykhalov,0.5
+190,Q353198,Seyni Kountché,0.5
+191,Q173563,Jomo Kenyatta,0.5
+192,Q5816,Mao Zedong,0.5
+193,Q19878,Muammar al-Gaddafi,0.5
+195,Q5858604,Stephen Low,0.5
+194,Q313400,Lon Nol,1.0
+196,Q352422,Mike Gravel,0.5
+197,Q315568,Masayoshi Ōhira,0.5
+198,Q6969791,Nathaniel Newnham-Davis,0.5
+199,Q153509,Makarios III,0.5
+201,Q5362988,Elizabeth Holtzman,0.5
+202,Q1409940,Robert Bergland,0.5
+203,Q7934870,Viron P. Vaky,0.5
+204,Q737664,Carlos P. Romulo,0.5
+205,Q14356,Park Chung-hee,0.5
+206,Q288402,Carl Albert,0.5
+207,Q1064692,Charles H. Percy,0.5
+208,Q1538373,Ndabaningi Sithole,0.5
+209,Q200499,Muhammad Zia-ul-Haq,0.5
+210,Q10774241,John Gunther Dean,0.5
+212,Q1033892,Bálint Harcos,0.5
+213,Q3196693,Kim Chung-tae,0.5
+211,Q131355,Zulfiqar Ali Bhutto,0.5
+214,Q16734728,Prince Abdulaziz Bin Salman Bin Mohammed Al Saud,0.5
+216,Q7821144,Tongsun Park,1.0
+217,Q467328,Hugh Scott,0.5
+218,Q66107,Henry Kissinger,0.5
+219,Q7792839,Thomas O. Enders,0.5
+220,Q19878,Muammar al-Gaddafi,0.5
+221,Q276524,Robert Byrd,0.5
+222,Q294241,Ernesto Geisel,0.5
+225,Q880776,William Scranton,0.5
+226,Q183469,Juanita M. Kreps,0.5
+228,Q42992,Golda Meir,0.5
+231,Q57428904,,0.5
+232,Q312185,Edward Gierek,0.5
+233,Q76,Barack Obama,0.5
+234,Q315613,José López Portillo,0.5
+235,Q282519,Joseph Nanven Garba,0.5
+236,Q275147,Huang Hua,1.0
+237,Q295128,Gaston Thorn,0.5
+240,Q989,Johannes Paul II.,0.5
+242,Q864545,Donald M. Fraser,0.5
+243,Q533169,John Brademas,0.5
+244,Q23685,Jimmy Carter,0.5
+245,Q285536,Imelda Marcos,0.5
+246,Q198313,Ziaur Rahman,0.5
+247,Q3088826,Grace Zaring Stone,0.5
+250,Q171834,Aldo Moro,0.5
+248,Q5293990,Donald B. Easum,0.5
+249,Q66107,Henry Kissinger,0.5
+252,Q1337643,Howard Baker,0.5
+251,Q118725,Hafiz al-Assad,0.5
+255,Q953882,Simcha Dinitz,0.5
+256,Q5480803,"Francis E. Meloy, Jr.",0.5
+257,Q57410,Shimon Peres,0.5
+258,Q3129951,Helmut Sonnenfeldt,0.5
+259,Q147989,Joaquín Balaguer,0.5
+260,Q6698543,Lucy W. Benson,0.5
+261,Q343514,İhsan Sabri Çağlayangil,0.5
+262,Q19943,Juan Carlos I.,0.5
+263,Q317675,Takeo Miki,0.5
+264,Q8008305,"William E. Schaufele, Jr.",0.5
+265,Q313411,George P. Shultz,0.5
+268,Q4388117,Sunao Sonoda,0.5
+266,Q983721,William J. Casey,0.5
+267,Q477169,Frank Church,0.5
+269,Q75866,Rudolf Hess,0.5
+270,Q401574,Ahmed Zaki Yamani,0.5
+271,Q6111002,Jack Anderson,0.5
+272,Q323488,Roy Jenkins,0.5
+274,Q5379639,Enrique Beltrán,0.5
+276,Q156806,Konstantinos Karamanlis,0.5
+277,Q17410,Zhou Enlai,0.5
+279,Q312845,Daniel Inouye,0.5
+280,Q356678,Alfonso López Michelsen,0.5
+281,Q518779,Leo Ryan,0.5
+284,Q885391,John C. West,0.5
+282,Q5120676,James William Edmund Doyle,0.5
+283,Q368,Augusto Pinochet,0.5
+285,Q12957,Raymond Barre,0.5
+287,Q11237,Nelson Rockefeller,0.5
+288,Q5544206,George S. Vest,0.5
+289,Q6891914,Mohammad Daoud,0.5
+291,Q713505,Daniel Patrick Moynihan,0.5
+292,Q968268,Thomas R. Pickering,0.5
+293,Q184650,Donald Rumsfeld,0.5
+294,Q16859271,Richard Cooper,0.5
+295,Q16977,Deng Xiaoping,1.0
+296,Q719808,Elliot Richardson,0.5
+297,Q273051,Jonas Savimbi,0.5
+298,Q63740,Peter Lorenz,0.5
+300,Q393447,Agha Shahi,0.5
+301,Q155649,Richard Holbrooke,0.5
+303,Q171989,James R. Schlesinger,0.5
+302,Q6773601,Marshall Green,0.5
+304,Q15002,Leo Tindemans,0.5
+306,Q34105,Hosni Mubarak,0.5
+309,Q57449,Ian Khama,0.5
+311,Q59693307,,0.5
+312,Q571094,Jean Sauvagnargues,0.5
+313,Q765165,Leonid Brezhnev,0.5
+314,Q515657,Siaka Stevens,0.5
+315,Q2641609,Long Boret,1.0
+316,Q2166580,Seewoosagur Ramgoolam,0.5
+317,Q351710,Kalevi Sorsa,0.5
+321,Q1506554,Leonard Woodcock,0.5
+320,Q34211,Yasser Arafat,0.5
+319,Q1366620,James Abourezk,0.5
+322,Q317648,Glafcos Clerides,0.5
+323,Q8619,Pierre Trudeau,0.5
+324,Q9582,Gerald Ford,0.5
+325,Q552951,Sol Linowitz,0.5
+330,Q16008123,Robert O. Waring,0.5
+333,Q518779,Leo Ryan,0.5
+334,Q386798,Clark Clifford,0.5
+338,Q6144323,James Tocco,0.5
+337,Q503850,Kamal Jumblatt,0.5
+336,Q1875906,Jacob Koppel Javits,0.5
+339,Q192512,Mengistu Haile Mariam,1.0
+340,Q2578451,William Denman Eberle,0.5
+343,Q372039,Prabhat Ranjan Sarkar,0.5
+344,Q53407,Taylor Dent,0.11111111111111
+345,Q1889152,Mike Mansfield,0.5
+346,Q351481,Dewey F. Bartlett,0.5
+347,Q217167,Faisal of Saudi Arabia,0.33333333333333
+348,Q179858,Urho Kekkonen,0.5
+349,Q164535,Mobutu Sese Seko,0.5
+351,Q212286,P. W. Botha,0.5
+352,Q5660906,Harold H. Saunders,0.5
+353,Q358051,Pham Van Dong,1.0
+354,Q11256,Fidel Castro,0.5
+356,Q4977822,Bruce Laingen,0.5
+355,Q60114,António Ramalho Eanes,0.5
+357,Q7336146,Kim Dong-Jo,1.0
+359,Q3430628,Richard C. Starr,0.5
+360,Q2368858,Huib Luns,0.5
+361,Q28517,Todor Zhivkov,0.5
+363,Q105480,Kenneth Kaunda,0.5
+364,Q315953,Didier Ratsiraka,0.5
+365,Q880776,William Scranton,0.5
+362,Q7145705,Patricia M. Derian,0.5
+366,Q357718,Brock Adams,0.5
+367,Q28124038,Eileen Mumy,0.5
+368,Q1794153,John Patterson,0.5
+369,Q128956,Harold Wilson,0.5
+371,Q128245,Mohammad Reza Pahlavi,0.5
+370,Q20557346,Aaron David Gleason,0.5
+373,Q699768,Ella Chen,0.5
+374,Q1316,Saddam Hussein,0.5
+375,Q5895726,Hong Yi,0.5
+376,Q45441481,Shu Yu,0.5
+377,Q1263771,Dudley Thompson,0.5
+378,Q172083,Omar Bongo,0.5
+379,Q214367,Adolfo Suárez,0.5
+381,Q2915786,Ensio Siilasvuo,0.5
+380,Q1030299,Earl Butz,0.5
+383,Q6163723,Jason Weir-Smith,0.5
+384,Q312881,Anker Jørgensen,0.5
+386,Q7329720,Richard W. Murphy,0.5
+387,Q5544206,George S. Vest,0.5
+394,Q6614872,William H. Sullivan,0.5
+392,Q946305,Sam Nunn,0.5
+393,Q10805021,潘顯道,0.5
+388,Q318298,Rodrigo Carazo Odio,0.5
+391,Q153509,Makarios III,0.33333333333333
+389,Q6289775,Joshua Eilberg,0.5
+390,Q6786818,Mathea Falco,0.5
+395,Q5883014,Gonzalo Facio Segreda,0.5
+396,Q66107,Henry Kissinger,0.5
+397,Q365395,Michael Manley,0.5
+398,Q1347757,György Sándor,0.5
+399,Q162708,Jean-Bedel Bokassa,0.5
+402,Q63831,Hafizullah Amin,0.5
+403,Q1350863,Knut Frydenlund,0.5
+404,Q2557585,Saad Haddad,0.5
+405,Q27088013,Khalid King,0.33333333333333
+406,Q1353745,Nguza Karl-I-Bond,1.0
+408,Q233289,Atal Bihari Vajpayee,0.5
+407,Q5555893,Ray Anderson,0.5
+409,Q269039,Hugo Banzer,0.5
+410,Q1288802,Miloš Minić,0.5
+411,Q7943196,Zygmunt Najdowski,0.5
+412,Q1642894,Hedi Amara Nouira,0.5
+413,Q1338879,Eric Williams,0.5
+414,Q155385,Gnassingbé Eyadéma,0.5
+415,Q166272,Geoffrey Rush,0.2
+418,Q2571,Walter Scheel,0.5
+424,Q9282777,Gus Yatron,0.5
+422,Q6133671,James F. Leonard,0.5
+427,Q671393,David D. Newsom,0.5
+428,Q241614,Rachel Smith,0.5
+426,Q319867,Edmund Muskie,0.5
+430,Q8010493,William H. Luers,0.5
+432,Q57308,Abdelaziz Bouteflika,0.5
+433,Q313903,B. J. Vorster,0.5
+434,Q560515,Bishweshwar Prasad Koirala,0.5
+435,Q7345937,Robert J. McCloskey,0.5
+436,Q141704,George Meany,0.5
+443,Q574685,Daniel Oduber Vargas,0.5
+442,Q4200159,Mochtar Kusumaatmadja,1.0
+438,Q554131,Mangosuthu Buthelezi,0.5
+444,Q219962,Seretse Khama,0.5
+445,Q315613,José López Portillo,0.5
+446,Q5294839,Donald McHenry,0.5
+447,Q219733,Richard Stone,0.5
+448,Q155402,Ahmed Sékou Touré,0.5
+449,Q2105,Jacques Chirac,0.5
+451,Q202770,Alexei Kosygin,0.5
+452,Q128574,Joe Clark,0.5
+457,Q299559,Nur Muhammad Taraki,0.5
+456,Q1606032,Henri Simonet,0.5
+455,Q365169,Félix Malloum,0.5
+454,Q7356718,Rodger Davies,0.5
+458,Q53595,Pranas Brazinskas,0.5
+459,Q939880,G. William Miller,0.5
+466,Q10886643,Yu Teng-fa,0.5
+460,Q301252,Anthony Crosland,0.5
+461,Q2157175,Robert Ellsworth,0.5
+462,Q6111087,Jack B. Kubisch,0.5
+463,Q93330,Juan Perón,0.5
+464,Q1064708,Charles H. Wilson,0.5
+468,Q4423323,Vladimir Slepak,0.5
+476,Q6284674,Joseph Kraft,0.5
+478,Q7024935,Nicholas A. Veliotes,0.5
+477,Q200701,Henry S. Reuss,0.5
+475,Q3176929,Thomas Eagleton,0.5
+480,Q433129,Joan Mondale,0.5
+482,Q1324581,Wilfred Burchett,0.5
+483,Q112128,Husayn ibn Ali,0.5
+487,Q972052,Philip Habib,0.5
+491,Q16977,Deng Xiaoping,0.5
+492,Q773635,Max van der Stoel,0.5
+493,Q7493459,Sheldon B. Vance,0.5
+488,Q1345201,Henry Martin Jackson,0.5
+489,Q37278,John Paul I,0.5
+494,Q49084859,Fouad Boutros Twal,0.2
+496,Q2607,Erich Honecker,0.5
+495,Q765165,Leonid Brezhnev,0.5
+497,Q2333569,Antonio Flores,0.5
+498,Q28816483,Khalid,0.66666666666667
+499,Q5987149,Ida Nudel,0.5
+500,Q209828,Siad Barre,0.5
+501,Q44620,Franz Josef Strauß,0.5
+502,Q1530765,Habib Chatty,0.5
+503,Q12672881,Simas Kudirka,0.5
+504,Q58661310,,0.5
+510,Q152534,Alfredo Stroessner,0.5
+509,Q822380,Walter John Stoessel,0.5
+507,Q268003,Edvard Kardelj,0.5
+508,Q336050,Christopher Soames,0.5
+517,Q200436,Rauf Denktaş,0.5
+521,Q522435,Charles Vanik,0.5
+520,Q160318,Norodom Sihanouk,0.5
+519,Q433180,William P. Rogers,0.5
+518,Q315565,Kiichi Miyazawa,0.5
+515,Q1994957,Alan Cranston,0.5
+514,Q313598,Chiang Ching-kuo,1.0
+513,Q29230,Martti Ahtisaari,0.5
+522,Q4530056,Einar Ágústsson,0.5
+523,Q380395,Richard Parkes Bonington,0.5
+524,Q36519182,B.B. Semenov,0.5
+530,Q1510187,Gerard Smith,0.5
+529,Q2300505,Harry W. Shlaudeman,0.5
+527,Q1376679,Louis de Guiringaud,0.5
+528,Q6230812,John E. L. Peck,0.5
+526,Q335038,"Peter Carington, 6th Baron Carrington",0.5
+532,Q4065797,Ștefan Andrei,0.5
+534,Q6235957,John Graham,0.5
+537,Q348144,Hassan Rouhani,0.25
+539,Q23333,Gough Whitlam,0.5
+540,Q6111408,Jack Briggs,0.5
+542,Q365323,Adolph Dubs,0.5
+547,Q75853,Jorge Rafael Videla,0.5
+545,Q272580,Juvénal Habyarimana,0.5
+549,Q3544381,George Loring Brown,0.5
+551,Q381007,René Lévesque,0.5
+558,Q154545,Léopold Sédar Senghor,0.5
+557,Q34105,Hosni Mubarak,0.5
+554,Q15630776,Toussaint Léonard de La Villéon,0.5
+563,Q165210,Kim Young-sam,0.5
+566,Q313242,Moussa Traoré,0.5
+564,Q210362,Joseph Nye,0.5
+565,Q947002,Emilio Óscar Rabasa,0.5
+562,Q134549,Ted Kennedy,0.5
+561,Q3154605,Irving Brown,0.5
+560,Q455401,Lloyd Bentsen,0.5
+567,Q317648,Glafcos Clerides,0.5
+571,Q16145787,Olga Talamante,0.5
+576,Q224986,France-Albert René,0.5
+578,Q388215,John Jackson Sparkman,0.5
+577,Q709244,Jaime Roldós Aguilera,0.5
+575,Q469882,Robert Green Ingersoll,0.33333333333333
+574,Q8006459,William Caldwell Harrop,0.5
+572,Q7145705,Patricia M. Derian,0.5
+582,Q6079309,Melih Esenbel,0.5
+580,Q5006458,C. Fred Bergsten,0.5
+586,Q7364630,Ronald Adam,0.5
+587,Q298718,Ahmadou Ahidjo,0.5
+588,Q5949274,Hushang Ansary,0.5
+589,Q1337643,Howard Baker,0.5
+590,Q184945,Hastings Banda,0.5
+591,Q194291,Sirimavo Bandaranaike,0.5
+592,Q312185,Edward Gierek,0.33333333333333
+594,Q2518,Helmut Kohl,0.5
+595,Q193492,Daniel arap Moi,0.5
+596,Q6135277,James H. Scheuer,0.5
+601,Q7345084,Robert H. Miller,0.5
+600,Q66107,Henry Kissinger,0.5
+599,Q105480,Kenneth Kaunda,0.5
+605,Q1230,Francesco Cossiga,0.5
+607,Q841310,Garth Williams,0.125
+608,Q469498,Souvanna Phouma,1.0
+609,Q822380,Walter John Stoessel,0.5
+610,Q4725721,Alice Artzt,0.5
+612,Q157651,Gustáv Husák,0.5
+613,Q475289,Ray Marshall,0.5
+615,Q8619,Pierre Trudeau,0.5
+618,Q53713,Olof Palme,0.5
+617,Q5345600,Edward Thomas Wordon Myers,0.5
+616,Q2978867,Clemens Kapuuo,0.5
+620,Q2404423,George Gardner,0.5
+621,Q455661,Luis Herrera Campins,0.5
+622,Q206719,Mathieu Kérékou,0.5
+619,Q63708,Ellsworth Bunker,0.5
+625,Q48231,Idi Amin,0.5
+626,Q214473,Steve Biko,0.5
+627,Q1780222,Paul Findley,0.5
+629,Q529391,Hussein Onn,0.5
+630,Q1239989,Don Jamieson,0.5
+640,Q5660566,Harold E. Saunders,0.5
+638,Q665630,Aristides Royo,0.5
+639,Q18060819,Omar al-Saqqaf,0.5
+636,Q2578451,William Denman Eberle,0.5
+633,Q162708,Jean-Bedel Bokassa,0.5
+635,Q93957,Gary Cooper,0.25
+643,Q21879460,John Armitage,0.5
+644,Q488066,Stephen W. Bosworth,0.5
+646,Q1394814,Jean François-Poncet,0.5
+647,Q1278282,Eastman Johnson,0.33333333333333
+648,Q457455,Charles Mathias,0.5
+649,Q722282,"Marcelino Oreja, 1st Marquis of Oreja",0.5
+650,Q315613,José López Portillo,0.33333333333333
+652,Q339727,Peter Tarnoff,0.5
+642,Q62493,Philip Agee,0.5
+659,Q8619,Pierre Trudeau,0.5
+656,Q16663248,Кеукы Лим,0.5
+657,Q219918,Samora Machel,0.5
+655,Q984174,Lee H. Hamilton,0.5
+660,Q5602890,Gustaf Carlson,0.5
+661,Q7327990,Richard N. Gardner,0.5
+663,Q62237,Georg Leber,0.5
+665,Q878933,Phoumi Vongvichit,1.0
+667,Q222805,Benigno Aquino junior,0.5
+668,Q6279,Joe Biden,0.5
+669,Q1235,Giovanni Leone,0.5
+670,Q574685,Daniel Oduber Vargas,0.33333333333333
+673,Q23543,Selena Quintanilla-Pérez,0.33333333333333
+672,Q54523984,,0.5
+675,Q182642,John Glenn,0.5
+676,Q469661,Junius Richard Jayewardene,0.5
+677,Q1389746,Winston Lord,0.5
+678,Q533683,George Macovescu,0.5
+679,Q433180,William P. Rogers,0.5
+680,Q7154239,Paul Warnke,0.5
+685,Q192512,Mengistu Haile Mariam,0.5
+688,Q315587,Sultan bin Abdulaziz,0.33333333333333
+683,Q6962785,Nancy Kissinger,0.5
+684,Q1463,Ferdinand Marcos,0.5
+682,Q106235,Hans-Dietrich Genscher,0.5
+681,Q548748,Suleiman Frangieh,0.5
+694,Q14356,Park Chung-hee,0.5
+697,Q7329128,Richard Sneider,0.5
+696,Q7684690,Tapishwar Narain Raina,0.5
+695,Q1241512,Frigyes Puja,0.5
+690,Q592933,Possum Bourne,0.5
+693,Q379232,Ieng Sary,1.0
+692,Q11964823,David Driscoll,0.5
+698,Q1703107,Jonathan Brewster Bingham,0.5
+699,Q386798,Clark Clifford,0.5
+700,Q1064898,Charles Horman,0.5
+703,Q313411,George P. Shultz,0.5
+709,Q310775,Jean-Claude Duvalier,0.5
+712,Q612167,Anu Malik,0.33333333333333
+706,Q9576,James Callaghan,0.5
+704,Q8009507,William G. Bowdler,0.5
+705,Q4999775,Burnie Burns,0.5
+707,Q365971,Camille Chamoun,0.5
+716,Q597106,David S. Hall,0.5
+718,Q685269,Emiel van Lennep,0.5
+717,Q920953,Lynden Pindling,0.5
+715,Q6099588,Ramón Escovar Salom,0.5
+714,Q5875974,Hodding Carter III,0.5
+713,Q61702208,,0.5
+720,Q30084414,Richard C. K. Burdekin,0.5
+721,Q4888163,Benjamin A. Gilman,0.5
+722,Q531198,Indalecio Liévano,0.5
+723,Q28793938,Edward E. Masters,0.5
+725,Q828627,Bertrand Traoré,0.5
+726,Q215079,Berndt von Staden,0.5
+730,Q4797759,Arthur A. Hartman,0.5
+732,Q337295,Odvar Nordli,0.5
+731,Q453868,John Negroponte,0.5
+729,Q213122,Betty Ford,0.5
+728,Q7612135,Steve Campbell,0.5
+727,Q311103,Jeff Bennett,0.33333333333333
+733,Q276524,Robert Byrd,0.5
+734,Q434786,Arnaldo Forlani,0.5
+735,Q12960,Michel Jobert,0.5
+737,Q21503722,John M. Slack,0.5
+738,Q297644,Kakuei Tanaka,0.5
+740,Q343514,İhsan Sabri Çağlayangil,0.5
+739,Q881173,Henry Bellmon,0.5
+741,Q4570035,Arthur W. Hummel,0.5
+742,Q553882,Joseph Luns,0.5
+743,Q2580484,William S. Mailliard,0.5
+745,Q68748,Dietrich Stobbe,0.5
+751,Q1397402,Karl Patterson Schmidt,0.33333333333333
+749,Q16104987,Spencer Oliver,0.5
+750,Q42013,Anwar as-Sadat,0.5
+746,Q965595,Džemal Bijedić,0.5
+748,Q38257,Enya,0.2
+753,Q6084719,Ismail Fahmi,0.5
+754,Q507606,Andrew Smith,0.25
+756,Q1260,Kurt Waldheim,0.33333333333333
+761,Q1807991,Laurence Silberman,0.5
+762,Q3482241,Friðrik Klemenz Sophusson,0.5
+759,Q401360,Ahmed Laraki,0.5
+758,Q381661,Liam Cosgrave,0.5
+757,Q472593,Ignatius Kutu Acheampong,0.5
+768,Q312716,Dawda Jawara,0.5
+771,Q720351,David M. Walker,0.5
+769,Q4714628,Alejandro Orfila,0.5
+767,Q6135606,James Harrell,0.5
+765,Q15454483,Manuel Antonio de Varona,0.5
+764,Q65561,Hans Apel,0.5
+772,Q2938914,Carl Frederik von Breda,0.5
+773,Q25252439,Huang Chen,1.0
+774,Q49792211,Mohammad Naim,0.5
+776,Q2072385,Khalifa bin Hamad al-Thani,0.5
+777,Q7154239,Paul Warnke,0.5
+787,Q2659172,Georgi Vins,0.5
+783,Q39464,Pol Pot,1.0
+785,Q521462,Joseph J. Sisco,0.5
+784,Q4965240,Brian Schwager,0.5
+779,Q354695,Yakubu Gowon,0.5
+782,Q315522,Ne Win,1.0
+780,Q276961,Moulay Hassan,0.5
+781,Q561547,Augustus F. Hawkins,0.5
+792,Q366834,Phil Hartman,0.16666666666667
+794,Q19896106,William Matthews,0.5
+793,Q1370956,U. Alexis Johnson,0.5
+795,Q34474,Aleksandr Solzhenitsyn,0.5
+791,Q3236702,Leslie H. Gelb,0.5
+789,Q192634,Bülent Ecevit,0.5
+788,Q6130973,James Campbell of Inverneill,0.25
+797,Q2038,François Mitterrand,0.5
+799,Q6525703,Leonard S. Unger,0.5
+811,Q152850,Raoul Wallenberg,0.5
+810,Q42013,Anwar as-Sadat,0.5
+802,Q2580722,William Tapley Bennett Jr.,0.5
+806,Q2468387,Mohamed Abdel Ghani el-Gamasy,0.5
+801,Q715482,Ibrahim al-Hamdi,0.5
+826,Q2925029,Brian Urquhart,0.5
+825,Q9161,Josip Broz Tito,0.5
+824,Q310839,Adlai Stevenson I,0.5
+821,Q164535,Mobutu Sese Seko,0.5
+816,Q1444898,John Campbell,0.5
+818,Q36562478,Géssica A. Gomes-Costa,0.33333333333333
+815,Q1335058,Griffin Bell,0.5
+814,Q118725,Hafiz al-Assad,0.5
+812,Q4073049,Aziz Ahmed,0.5
+838,Q7350118,Robert Strausz-Hupé,0.5
+837,Q320103,Souphanouvong,1.0
+834,Q23926202,Louis-Victor Lefèvre,0.5
+832,Q348901,Poul Hartling,0.5
+829,Q38640715,Mohamed A Baky Fahmy,0.5
+828,Q377765,Jean-Baptiste Bagaza,0.5
+850,Q200850,János Kádár,0.5
+856,Q564831,László Fejes Tóth,0.5
+855,Q298609,Aristides Pereira,0.5
+854,Q374949,Andrew Peacock,0.5
+853,Q109130,P. J. Patterson,0.5
+852,Q5488498,Frank Montague Moore,0.5
+846,Q744098,Lawton Chiles,0.5
+849,Q7344173,Robert F. Goheen,0.5
+842,Q23505,George H. W. Bush,0.5
+844,Q80504,Nicolae Ceaușescu,0.5
+848,Q203046,Eric Gairy,0.5
+861,Q115909,Carl Meissner,0.5
+860,Q475289,Ray Marshall,0.33333333333333
+858,Q2915518,Suleiman Frangieh,0.5
+857,Q5228376,Dave Bolen,0.5
+874,Q4766663,Ann Schein Carlyss,0.5
+873,Q9960,Ronald Reagan,0.5
+871,Q960207,James Murray,0.5
+870,Q887011,Kjell Eugenio Laugerud García,0.5
+868,Q305776,Abba Eban,0.5
+866,Q1470575,Jack Brooks,0.5
+881,Q2579582,William Kelley,0.5
+885,Q249244,Sidney Dillon Ripley,0.5
+882,Q16054218,Adolfo Molina Orantes,0.5
+883,Q313707,Nguyen Van Thieu,1.0
+879,Q704418,Robert A. Good,0.5
+878,Q315979,Malcolm Fraser,0.5
+876,Q25260,Gendün Drub,0.33333333333333
+887,Q3489137,Bohuslav Chňoupek,0.5
+888,Q7345617,Robert Hormats,0.5
+894,Q80596,Arthur Miller,0.2
+896,Q16090597,Donald R. Toussaint,0.5
+895,Q337799,S. Rajaratnam,0.5
+892,Q12230458,Francis Deng,0.5
+893,Q4570119,Arthur W. Hummel,0.5
+890,Q131725,Joan Baez,0.5
+903,Q5386338,Eric D. Green,0.5
+908,Q1935952,Milton A. Wolf,0.5
+907,Q196401,William Walker,0.5
+906,Q1066817,Yuwen Huaji,0.5
+905,Q12231655,Faisal bin Turki I bin Abdulaziz Al Saud,0.33333333333333
+899,Q131355,Zulfiqar Ali Bhutto,0.5
+901,Q203046,Eric Gairy,0.5
+898,Q346761,"John, Duke of Berry",0.5
+897,Q1820456,Les Aspin,0.5
+918,Q455293,Georgios Mavros,0.5
+926,Q15052273,William Howard Wriggins,0.5
+925,Q3247079,Russell E. Train,0.5
+924,Q4985101,Budiman Sudjatmiko,0.5
+922,Q16747078,Farhad Sepahbody,0.5
+920,Q1542901,James B. Pearson,0.5
+921,Q928833,Stephen M. Schwebel,0.5
+917,Q740733,Allan MacEachen,0.5
+915,Q403740,Mustafa Khalil,0.5
+914,Q19628748,Cledwyn Hughes,0.5
+912,Q5868556,Frank Walton Gould,0.5
+911,Q699801,Sigvard Eklund,0.5
+910,Q283357,David R. Bowen,0.5
+916,Q40715,Jennifer Lopez,0.5
+931,Q1543291,Granville Redmond,0.5
+934,Q8038977,Wu Teh Yao,0.5
+932,Q336884,António de Spínola,0.5
+930,Q7341736,Robert B. Oakley,0.5
+929,Q23303228,Lee McCoy,0.5
+945,Q399235,Patsy Mink,0.5
+944,Q41117,Kim Il-sung,0.5
+941,Q1347953,Leabua Jonathan,0.5
+940,Q307490,Abdessalam Jalloud,0.5
+939,Q106235,Hans-Dietrich Genscher,0.5
+938,Q20036754,Ed Daly,0.5
+936,Q321956,Orlando Bosch,0.5
+935,Q945708,Don Bonker,0.5
+964,Q6147652,Fumihiko Tōgō,0.5
+963,Q324719,Strom Thurmond,0.5
+962,Q134165,Oscar Niemeyer,0.5
+961,Q6397922,Kewal Singh,0.5
+960,Q16007872,Nicholas Shadrin,0.5
+958,Q102319,Hermann Schäufele,0.33333333333333
+955,Q380406,François-Xavier Ortoli,0.5
+954,Q2094491,Tip O'Neill,0.5
+949,Q42283601,"Sir Patrick James Graham Blake, 5th Baronet",0.5
+984,Q5490549,Frank Zarb,0.5
+983,Q211029,Edward O. Wilson,0.25
+982,Q311431,Juan Velasco Alvarado,0.5
+980,Q273866,Abulhassan Banisadr,0.5
+979,Q41664309,Virginia Evelyn Ross,0.5
+978,Q4394773,Kuaima Riruako,0.5
+977,Q3429656,Ivan Popov,0.5
+976,Q186525,Julius Nyerere,0.5
+974,Q14948747,Alonzo L. McDonald,0.5
+968,Q521696,Claude Cheysson,0.5
+967,Q188978,Kostas Karamanlis,0.5
+965,Q182580,Shirley Temple,0.5
+969,Q7962237,Walker Connor,0.5
+970,Q722527,Sadegh Ghotbzadeh,0.5
+971,Q962090,Geir Hallgrímsson,0.5
+972,Q942027,Samuel Ichiye Hayakawa,0.5
+1000,Q1902743,Marshall D. Shulman,0.5
+999,Q997,Andrei Sakharov,0.5
+994,Q573515,Anthony Lake,0.5
+997,Q41050675,Yuriy Orlov,0.5
+996,Q2354795,Ricardo Noir,0.043478260869565
+995,Q214762,Lien Deyers,0.125
+993,Q41570,Hua Guofeng,1.0
+991,Q689964,Prince Hassan bin Talal,0.5
+990,Q24700062,Wilhelm von Doering,0.5
+988,Q518861,Frank Carlucci,0.5
+987,Q360471,Vladimir Bukovsky,0.5
+986,Q10742666,Bích Liên,0.5
+985,Q736289,Ernesto Melo Antunes,0.5
+992,Q58333034,,0.5
+1007,Q656035,Michael Crawford,0.5
+1010,Q356957,Julio César Turbay Ayala,0.5
+1009,Q7648416,Susan Starr,0.5
+1008,Q7364958,Ronald I. Spiers,0.5
+1006,Q2077718,Peter Ramsbotham,0.5
+1005,Q5043130,Carlyle E. Maw,0.5
+1004,Q961159,Edem Kodjo,0.5
+1002,Q5246338,Jonathan Bates,0.5
+1019,Q1741163,Kifle Wodajo,1.0
+1026,Q2620782,Al Ullman,0.5
+1025,Q57331,Qaboos bin Said al Said,0.2
+1024,Q5234552,David H. Popper,0.5
+1023,Q374949,Andrew Peacock,0.5
+1022,Q49880349,Pao-Yang Chen,0.5
+1021,Q16758,Ed O'Neill,0.25
+1020,Q177681,Thomas Hunt Morgan,0.5
+1027,Q949514,Jim Wright,0.5
+1018,Q5217300,Daniel Goldman,0.5
+1015,Q313598,Chiang Ching-kuo,0.5
+1014,Q983721,William J. Casey,0.5
+1013,Q6299193,Juan Carlos Blanco,0.5
+1012,Q118725,Hafiz al-Assad,0.5
+1011,Q1262628,Habib Achour,0.5
+1017,Q1425313,Garret FitzGerald,0.5
+1033,Q21608841,Benjamin Shultz,0.5
+1035,Q162900,Charles Thomson Rees Wilson,0.5
+1034,Q313424,Ian Smith,0.5
+1032,Q24582851,William Richardson,0.5
+1031,Q115909,Carl Meissner,0.5
+1029,Q1703107,Jonathan Brewster Bingham,0.5
+1028,Q62206,Egon Bahr,0.5
+1045,Q937096,John Martin,0.16666666666667
+1053,Q76510,Christian Wolff,0.2
+1052,Q23333,Gough Whitlam,0.5
+1051,Q332055,Omar Torrijos,0.5
+1050,Q1034290,Swaran Singh,0.5
+1049,Q5764824,Charles Budd Robinson,0.5
+1047,Q3734991,Thomas Ellsworth Morgan,0.5
+1040,Q963893,Ronnie Barker,0.5
+1044,Q381681,Jack Lynch,0.5
+1043,Q1385418,Russell Billiu Long,0.5
+1041,Q5294476,Donald Hamilton Fraser,0.5
+1039,Q16574,Chiang Kai-shek,1.0
+1038,Q3272330,M'hamed Boucetta,0.5
+1067,Q9253578,Emil Wojtaszek,0.5
+1063,Q43133965,Roy Martell Mason,0.5
+1061,Q4731144,Allard K. Lowenstein,0.5
+1060,Q379203,Khieu Samphan,1.0
+1058,Q282519,Joseph Nanven Garba,0.5
+1057,Q4120043,Hoang Thi Cuc,0.5
+1054,Q1226139,Dimče Belovski,0.5
+1059,Q6751844,Mansour Khalid,0.5
+1076,Q954329,Jacobo Timerman,0.5
+1074,Q11348086,Richard Wilson Petree,0.5
+1073,Q3441769,Ronni Moffitt,0.5
+1071,Q19943,Juan Carlos I.,0.33333333333333
+1070,Q1441413,Francis Blanchard,0.5
+1069,Q118725,Hafiz al-Assad,0.5
+1068,Q6914890,Morton I. Abramowitz,0.5
+1086,Q311798,Yaafar al-Numeiry,0.5
+1092,Q231417,Barbara Walters,0.5
+1091,Q283884,Paul Tsongas,0.5
+1090,Q336212,William R. Tolbert junior,0.5
+1089,Q7349510,Robert S. Smith,0.5
+1087,Q1683691,William J. Porter,0.5
+1080,Q8005756,William Bowdler,0.5
+1085,Q342474,Marcos Roberto Silveira Reis,0.25
+1084,Q4665387,Abdul Hameed Khan,0.5
+1083,Q107957,Alexander Haig,0.5
+1082,Q5883014,Gonzalo Facio Segreda,0.33333333333333
+1081,Q9682,Elisabetta II del Regno Unito,0.5
+1078,Q59259,Michael Bay,0.043478260869565
+1077,Q34211,Yasser Arafat,0.5
+1101,Q955218,James A. McClure,0.5
+1104,Q10886643,Yu Teng-fa,0.5
+1103,Q773635,Max van der Stoel,0.5
+1102,Q483672,Ali Abdullah Saleh,0.5
+1100,Q371186,Oswaldo López Arellano,0.5
+1098,Q6095763,Turan Güneş,0.5
+1097,Q184267,Andrei Gromyko,0.5
+1096,Q215043,Oskar Fischer,0.5
+1094,Q1259964,Ali Latif,0.5
+1099,Q311413,Li Xiannian,0.5
+1114,Q9588,Richard Nixon,0.5
+1121,Q5082305,Charles Sheldon Whitehouse,0.5
+1120,Q26242994,Frank Weil,0.33333333333333
+1118,Q6101448,Raúl Sapena Pastor,0.5
+1117,Q2185,Georges Pompidou,0.33333333333333
+1116,Q9368726,Viktoras Petkus,0.5
+1115,Q16975,Paul VI.,0.5
+1113,Q320156,Benjamin Mkapa,0.5
+1112,Q2501353,Lon Non,1.0
+1110,Q3703034,David Henderson,0.5
+1109,Q1856944,Robert Drinan,0.5
+1107,Q23685,Jimmy Carter,0.5
+1130,Q465617,Tom Harkin,0.5
+1136,Q128245,Mohammad Reza Pahlavi,0.5
+1135,Q6068416,Ahmet Gündüz Ökçün,0.5
+1134,Q27851523,Nguyễn Minh Tam,0.5
+1132,Q2455115,Aboud Jumbe,0.5
+1131,Q742189,Piotr Jaroszewicz,0.5
+1129,Q602428,Antonio Guzmán Fernández,0.5
+1125,Q15992938,William B. Edmondson,0.5
+1124,Q1706385,"Joseph A. Califano, Jr.",0.5
+1123,Q164995,Enrico Berlinguer,0.5
+1128,Q979254,Raymundo Gleyzer,0.5
+1154,Q19002102,Alvaro Astolpho da Silveira,0.5
+1152,Q3014562,Daniel Pollack,0.5
+1153,Q278656,David Scott,0.5
+1155,Q2259022,Maximilian Spinola,0.5
+1148,Q146906,Hussein I.,0.25
+1149,Q153509,Makarios III,0.5
+1158,Q368192,John Anthony Volpe,0.5
+1147,Q75866,Rudolf Hess,0.5
+1141,Q8003915,William A. Brown,0.5
+1146,Q2578196,William C. Hayes,0.5
+1137,Q314688,Chadli Bendjedid,0.5
+1139,Q57732735,,0.5
+1140,Q7345844,Robert J. Brown,0.5
+1143,Q318505,Pierre Amine Gemayel,0.5
+1170,Q345531,William Averell Harriman,0.5
+1178,Q2860731,Ardeshir Zahedi,0.5
+1177,Q19849414,Wu Chi-ming,0.5
+1176,Q697939,Wang Yung-ching,0.5
+1175,Q6793651,Mauricio Solaún,0.5
+1174,Q920324,Michele Sindona,0.5
+1173,Q42013,Anwar as-Sadat,0.5
+1172,Q315613,José López Portillo,0.5
+1171,Q5812812,Domingo Laino,0.5
+1167,Q1239153,Don Fuqua,0.5
+1166,Q167345,Jens Evensen,0.5
+1165,Q2058786,Paul Bamela Engo,0.5
+1164,Q5293990,Donald B. Easum,0.33333333333333
+1163,Q1181113,Dean O'Banion,0.5
+1161,Q765165,Leonid Brezhnev,0.5
+1187,Q191375,Sheikh Mujibur Rahman,0.5
+1193,Q3535919,William vanden Heuvel,0.5
+1191,Q4028,Paul Simon,0.5
+1190,Q974619,Sanya Dharmasakti,0.5
+1189,Q1103401,Benjamin Stanley Rosenthal,0.5
+1188,Q5543771,George Reedy,0.5
+1194,Q611890,Antônio Conselheiro,0.5
+1181,Q312961,John Franklin Enders,0.5
+1185,Q16066968,"George W. Lane, Jr.",0.33333333333333
+1182,Q984174,Lee H. Hamilton,0.5
+1183,Q369632,Ed McBain,0.5
+1184,Q359540,Robert Hunter,0.5
+1204,Q1374575,Holden Roberto,0.5
+1212,Q131285,John Williams,0.25
+1211,Q2065240,William Turner Thiselton-Dyer,0.5
+1209,Q3088761,Chōzaburō Tanaka,0.33333333333333
+1207,Q319824,Charan Singh,0.5
+1205,Q79025,Walter Scott,0.25
+1203,Q19878,Muammar al-Gaddafi,0.5
+1202,Q153509,Makarios III,1.0
+1200,Q66851,Wilhelm Haferkamp,0.5
+1199,Q184267,Andrei Gromyko,0.5
+1198,Q49237,Leo X.,0.5
+1197,Q5946444,José de la Puente Radbill,0.5
+1221,Q16014414,Julius Katz,0.5
+1228,Q6812687,Melissa F. Wells,0.5
+1224,Q60310988,,0.5
+1220,Q1651726,Wayne Hays,0.5
+1217,Q1287554,John Danforth,0.5
+1215,Q5232417,David Clements,0.33333333333333
+1214,Q62988,W. Michael Blumenthal,0.5
+1241,Q5726568,Henry Owen,0.5
+1242,Q1233,Sandro Pertini,0.5
+1247,Q1586255,Harrison A. Williams,0.5
+1244,Q50599,Ted Stevens,0.5
+1245,Q540994,Thiệu Trị,0.25
+1238,Q5346629,Edwin M. Martin,0.5
+1240,Q914200,John Murphy,0.5
+1237,Q50997,Hilla Limann,0.5
+1235,Q1376679,Louis de Guiringaud,0.5
+1232,Q1365318,Gamani Corea,0.5
+1231,Q212286,P. W. Botha,0.5
+1230,Q468234,Maurice Bishop,0.5
+1229,Q11880937,Mario Biaggi,0.5
+1236,Q4710591,Albert Johnson,0.5
+1266,Q55098046,,0.5
+1264,Q3384437,Pierre Christoph Le Noir,0.5
+1265,Q19519594,Lawrence Pezzulo,0.5
+1267,Q5076797,Charles Dean,0.5
+1268,Q2658030,John Tower,0.5
+1269,Q313903,B. J. Vorster,0.5
+1259,Q1344225,Rashid Karami,0.5
+1260,Q7336146,Kim Dong-Jo,0.5
+1263,Q18093829,Robert James Mann,0.5
+1258,Q709513,Arthur Goldberg,0.5
+1253,Q46809,Raúl Castro,0.5
+1257,Q62273310,,0.5
+1250,Q936548,John B. Anderson,0.5
+1251,Q7651940,Sven Andersson,0.5
+1252,Q21932271,Len Campbell,0.5
+1254,Q334903,Abu Daoud,0.5
+1248,Q313729,Juan Almeida Bosque,0.5
+1282,Q305860,Abbas Ali Khalatbari,0.5
+1289,Q219086,Mungo Park,0.0625
+1287,Q21522115,Vesta Marie Newsom,0.33333333333333
+1285,Q1443695,Frank Lupo,0.5
+1284,Q18716199,Patrick J. Lucey,0.5
+1283,Q1237120,Norman Kirk,0.5
+1290,Q312622,Anastasio Somoza García,0.25
+1281,Q21165436,Bruce Ernest Kemp,0.5
+1275,Q373825,Walter Flowers,0.5
+1273,Q505279,Ephraim Evron,0.5
+1277,Q12609621,William Henry Gleysteen,0.5
+1279,Q469882,Robert Green Ingersoll,0.5
+1280,Q59528871,,0.5
+1303,Q55809597,,0.5
+1311,Q312632,Jack Vance,0.25
+1309,Q33923,Simon Petrus,0.5
+1308,Q545944,John Richardson,0.25
+1304,Q2831,Michael Jackson,0.14285714285714
+1301,Q10375449,Sylvia da Silveira de Mello Vargas,0.5
+1302,Q375208,Jiří Dienstbier,0.5
+1299,Q23139,Barnum Brown,0.16666666666667
+1297,Q6111308,Jack Blum,0.5
+1296,Q6279,Joe Biden,0.5
+1294,Q151763,K. B. Andersen,0.5
+1300,Q3511738,Cardiss Collins,0.5
+1326,Q55303,John Schlesinger,0.5
+1323,Q728490,Guillermo Rodríguez,0.5
+1324,Q2399855,"Ted Rowlands, Baron Rowlands",0.5
+1325,Q6095801,John A. Scali,0.25
+1330,Q16694132,José Alberto Zambrano Velasco,0.5
+1322,Q7341736,Robert B. Oakley,0.5
+1328,Q3434882,Robert C. Stebbins,0.5
+1320,Q469507,Kamisese Mara,0.5
+1317,Q310586,Jesse Jackson,0.5
+1316,Q5246712,Deane R. Hinton,0.5
+1315,Q686723,Finn Olav Gundelach,0.5
+1314,Q59628055,,0.5
+1313,Q7345838,Robert J. Blackwell,0.5
+1312,Q1604941,Henck Arron,0.5
+1319,Q313357,Fahri Korutürk,0.5
+1351,Q295781,Nikolai Podgorny,0.5
+1347,Q956466,Isidoro Malmierca Peoli,0.5
+1350,Q10799024,Nguyen Co Thach,1.0
+1356,Q17466445,Marvin Weissman,0.5
+1353,Q122841,Adlai Stevenson III,0.5
+1354,Q2476428,Francisco Villagrán Kramer,0.5
+1355,Q196401,William Walker,0.5
+1344,Q498745,Barney Kessel,0.5
+1345,Q3196693,Kim Chung-tae,0.5
+1337,Q3369161,Patricio Carvajal,0.5
+1331,Q218863,Ahmad Zia Massoud,0.5
+1333,Q2422104,Thomas Ashley,0.5
+1334,Q382369,Mehdi Bazargan,0.5
+1335,Q92183,Gerhard Beil,0.5
+1336,Q216021,Yosef Burg,0.5
+1332,Q472131,Robert Anderson,0.5
+1340,Q2468387,Mohamed Abdel Ghani el-Gamasy,0.5
+1376,Q5498589,Frederick R. Goff,0.5
+1372,Q529272,Sangoulé Lamizana,0.5
+1373,Q1540068,Robert L. Leggett,0.5
+1375,Q1249126,Joel Pritchard,0.5
+1377,Q3649515,Alfonso Robelo,0.5
+1378,Q8008305,"William E. Schaufele, Jr.",0.5
+1371,Q373471,James Day Hodgson,0.5
+1369,Q317681,Luis Echeverría Álvarez,0.5
+1362,Q3268711,"Harry F. Byrd, Jr.",0.5
+1368,Q319079,Bob Dole,0.5
+1357,Q644565,Patrick J. Adams,0.5
+1360,Q433057,Godfrey Binaisa,0.5
+1364,Q2631638,William A. Clark,0.5
+1365,Q5344445,Edward Michael Conolly,0.33333333333333
+1366,Q324970,John Sherman Cooper,0.5
+1367,Q21608894,Manuel da Silva,0.5
+1405,Q9029185,J. Stapleton Roy,0.5
+1399,Q21151529,Leonard Marks,0.5
+1400,Q880056,Juan Alberto Melgar Castro,0.5
+1402,Q219256,Andreas Papandreou,0.5
+1403,Q1891669,Manuel Pérez Guerrero,0.5
+1407,Q16007872,Nicholas Shadrin,0.5
+1408,Q1716860,Robert L. F. Sikes,0.5
+1409,Q773635,Max van der Stoel,0.5
+1410,Q331251,Renaat Van Elslande,0.5
+1411,Q604011,Antonio Palomino,0.5
+1397,Q209989,Hubert Humphrey,0.5
+1398,Q1524616,Gillis William Long,0.5
+1406,Q215756,Klaus Schütz,0.5
+1396,Q913848,Richard Helms,0.5
+1384,Q3276635,Edward Brooke,0.5
+1385,Q346685,Warren Earl Burger,0.5
+1387,Q881175,Raúl Héctor Castro,0.5
+1388,Q250919,Álvaro Cunhal,0.5
+1383,Q12876016,Dimitrios Bitsios,0.5
+1391,Q1573482,John Egan,0.5
+1392,Q5740637,Hermann Eilts,0.5
+1394,Q332360,Denis Healey,0.5
+1390,Q219728,Abdou Diouf,0.5
+1434,Q2866947,Assane Seck,0.5
+1429,Q7610061,Stephen Murphy,0.5
+1430,Q3431390,Richard FitzNeal,0.5
+1431,Q191014,Isabel Martínez de Perón,0.5
+1433,Q6326026,William L. Scott,0.5
+1439,Q983320,Cesar Virata,0.5
+1427,Q1292996,Edward Mezvinsky,0.5
+1428,Q5112921,Christopher Murphy,0.5
+1414,Q511329,Andrija Artuković,0.5
+1415,Q29857031,Alfred Bennison Atherton,0.5
+1418,Q5934756,Jorge Cauas,0.5
+1416,Q5668968,"Harry G. Barnes, Jr.",0.5
+1420,Q18527721,Roy Denman,0.5
+1421,Q11904986,Alfredo Guevara,0.5
+1422,Q297667,Hassan Gouled Aptidon,1.0
+1458,Q6075608,Pieter Johannes Vorster,0.5
+1456,Q468538,Karin Söder,0.5
+1455,Q360961,Natan Sharansky,0.5
+1454,Q714042,Seni Pramot,1.0
+1453,Q154545,Léopold Sédar Senghor,0.5
+1452,Q947002,Emilio Óscar Rabasa,0.33333333333333
+1451,Q1320534,Pham Van Tra,0.5
+1449,Q41117,Kim Il-sung,0.5
+1447,Q7350545,Robert V. Keeley,0.5
+1446,Q7172435,Peter A. Jay,0.5
+1445,Q17094177,Berit Haldorsen,0.5
+1443,Q145881,Juan Ponce Enrile,0.5
+1441,Q12331487,Peter Borre,0.5
+1448,Q45785,Kim Dae-jung,0.5
+1478,Q6376235,Katharine Price Collier St. George,0.5
+1479,Q461553,Dixy Lee Ray,0.5
+1480,Q467891,Ray LaHood,0.5
+1481,Q17107122,Torstein Sandø,0.5
+1482,Q571094,Jean Sauvagnargues,0.5
+1483,Q6768453,Mark L. Schneider,0.5
+1488,Q3378043,Phan Thi Vang-Anh,0.5
+1485,Q360961,Natan Sharansky,0.5
+1486,Q379576,Sobhuza II,1.0
+1487,Q1077899,Chris van der Klaauw,0.5
+1476,Q6069644,Pedro Ojeda Paullada,0.5
+1477,Q4981374,Neri Oxman,0.33333333333333
+1465,Q550255,J. William Fulbright,0.5
+1475,Q3246722,Robert K. Morgan,0.5
+1467,Q260218,Trinidad Jiménez,0.5
+1463,Q379712,Luis Corvalán,0.5
+1460,Q16183609,Ketil Børde,0.5
+1466,Q166641,Alexander Ginzburg,0.5
+1462,Q1708970,Henry A. Byroade,0.5
+1469,Q691411,Arnaud Jacomet,0.5
+1473,Q285536,Imelda Marcos,0.5
+1474,Q282359,Michel Micombero,0.5
+1503,Q11771232,Jessica Katz,0.5
+1514,Q3271470,Léonard-Constant Willems,0.5
+1511,Q7348241,Robert P. Smith,0.5
+1510,Q1797137,Mário Henrique Simonsen,0.5
+1509,Q30071272,Richard E. Romano,0.5
+1508,Q15486357,Alan Renouf,0.5
+1505,Q450984,Henry Cabot Lodge junior,0.5
+1512,Q2460277,Leon Sullivan,0.5
+1504,Q1044151,Carol Ann Lee,0.5
+1501,Q156799,Felipe González,0.5
+1493,Q1442594,Jamshid Amouzegar,0.5
+1492,Q317778,Fakhruddin Ali Ahmed,0.5
+1496,Q8004763,William B. Buffum,0.5
+1498,Q2982594,Colin Eglin,0.5
+1500,Q3236702,Leslie H. Gelb,0.5
+1535,Q5944824,Leif Leifland,0.5
+1536,Q552951,Sol Linowitz,0.5
+1537,Q6122223,Jagat Singh Mehta,0.5
+1548,Q15846277,Bogumił Sujka,0.5
+1544,Q461553,Dixy Lee Ray,0.5
+1545,Q323417,Abraham A. Ribicoff,0.5
+1546,Q316288,Mariano Rumor,0.5
+1547,Q45935408,David T. Schneider,0.5
+1540,Q2243275,Dirk Mudge,0.5
+1522,Q15427309,Charles Gallagher,0.5
+1531,Q125143,Otto Kersten,0.5
+1515,Q3565005,Wadel Abdelkader Kamougué,0.5
+1519,Q6079309,Melih Esenbel,0.25
+1521,Q1164977,Dante Fascell,0.5
+1523,Q5512357,G. McMurtrie Godley,0.5
+1525,Q1391319,Floyd K. Haskell,0.5
+1526,Q128967,Edward Heath,0.5
+1528,Q596008,Ernest Hollings,0.5
+1529,Q5498100,Frederick Irving,0.5
+1530,Q21162723,David N. Kennedy,0.5
+1524,Q712532,Vasco Gonçalves,0.5
+1566,Q10799077,阮唯楨,0.5
+1572,Q53733,Ola Ullsten,0.5
+1569,Q22947752,Robert M. Sayre,0.5
+1570,Q979595,Charles Schultze,0.5
+1571,Q3489389,Janez Stanovnik,0.5
+1563,Q50812851,,0.5
+1564,Q426404,Connie Mulder,0.5
+1562,Q15462352,Mike McCormack,0.5
+1553,Q562162,Evangelos Averoff,0.5
+1561,Q24451685,Logan Paul,0.5
+1560,Q105480,Kenneth Kaunda,0.5
+1559,Q596008,Ernest Hollings,0.5
+1558,Q602428,Antonio Guzmán Fernández,0.5
+1557,Q1363756,Paul Goma,0.5
+1556,Q981574,Edmund Dell,0.5
+1555,Q5896107,Hernán Cubillos,0.5
+1554,Q5875972,Hodding Carter,0.5
+1552,Q484772,Anderson Luís de Abreu Oliveira,0.16666666666667
+1596,Q3562259,John M. Murphy,0.5
+1595,Q116630,Francisco Morales Bermúdez,0.5
+1594,Q2438226,Toby Moffett,0.5
+1590,Q55849196,,0.5
+1593,Q3435918,Robert H. Michel,0.5
+1598,Q822454,Bernard H. Oxman,0.5
+1597,Q10798998,Nguyễn Chánh Sắt,0.5
+1604,Q18158001,Chance Sisco,0.2
+1599,Q368,Augusto Pinochet,0.5
+1602,Q184650,Donald Rumsfeld,0.5
+1591,Q35950810,Thomas McIntosh,0.5
+1589,Q7668816,T. Vincent Learson,0.5
+1579,Q54256572,,0.5
+1588,Q529272,Sangoulé Lamizana,0.5
+1573,Q21020244,Presciliana Duarte de Almeida,0.5
+1574,Q1573524,Hamilton Shirley Amerasinghe,0.5
+1577,Q2426851,Thomas R. Byrne,0.5
+1584,Q4138621,Aleksandr Samoeilovitsj Ginzboerg,0.5
+1585,Q33676220,Chu Ho,0.33333333333333
+1631,Q5480803,"Francis E. Meloy, Jr.",0.5
+1632,Q670658,George Armitage Miller,0.5
+1634,Q2499856,Frederic Moore,0.33333333333333
+1635,Q13407950,Ngô Thị Bính,0.5
+1636,Q210362,Joseph Nye,0.5
+1638,Q468487,Happy Rockefeller,0.5
+1639,Q1400609,William V. Roth,0.5
+1640,Q688628,"Armistead I. Selden, Jr.",0.5
+1642,Q7382914,Ruth Carter Stapleton,0.5
+1644,Q2699591,Martina Stoessel,0.5
+1646,Q1586255,Harrison A. Williams,0.5
+1627,Q5545669,George W. Landau,0.5
+1628,Q58217019,,0.5
+1608,Q365172,Carlos Arias Navarro,0.5
+1616,Q319129,Barry Goldwater,0.5
+1625,Q9696,John F. Kennedy,0.5
+1607,Q321323,Peter Abrassimov,0.5
+1612,Q718256,Forbes Burnham,0.5
+1613,Q45698325,Li Jian,0.5
+1615,Q2124,Valéry Giscard d'Estaing,0.5
+1611,Q162306,Birendra of Nepal,0.5
+1617,Q6235940,John Graham,0.5
+1620,Q958399,Vance Hartke,0.5
+1622,Q233648,Lady Bird Johnson,0.5
+1624,Q15052230,Joseph J. Jova,0.5
+1618,Q57910445,,0.5
+1665,Q21522338,Ikuo Ohira,0.33333333333333
+1661,Q16195648,Daniel Lieberman,0.5
+1663,Q1442894,F. Bradford Morse,0.5
+1664,Q2326652,Thomas P. O'Neill III,0.5
+1666,Q6095801,John A. Scali,0.5
+1667,Q1716860,Robert L. F. Sikes,0.5
+1660,Q41117,Kim Il-sung,1.0
+1658,Q5217520,Daniel Horowitz,0.5
+1656,Q374960,John J. Gilligan,0.5
+1654,Q5497000,Frederic Charles Fraser,0.5
+1652,Q706743,Pedro Joaquín Chamorro Cardenal,0.5
+1650,Q1668455,Alexander Butterfield,0.5
+1649,Q7342351,Robert Brewster Stanton,0.5
+1647,Q471787,Shapour Bakhtiar,0.5
+1657,Q444106,Patricia Roberts Harris,0.5
+1689,Q25929564,Thomas J. Scotes,0.5
+1685,Q855252,Bhumibol Adulyadej,0.5
+1695,Q59384394,,0.5
+1690,Q7405291,Sally Shelton-Colby,0.5
+1694,Q3263288,Louis Vignes,0.04
+1684,Q2409492,Ahmed Saad Osman,0.5
+1682,Q312539,Diosdado Macapagal,0.5
+1681,Q202770,Alexei Kosygin,0.5
+1671,Q115581,Pierre Aubert,0.5
+1672,Q7308591,Reginald Bartholomew,0.5
+1673,Q864992,Birch Bayh,0.5
+1676,Q5621522,Gustavo Zubieta-Castillo,0.5
+1677,Q709453,Frederick Theodore Frelinghuysen,0.5
+1679,Q2423000,Carlos García-Bedoya,0.5
+1680,Q2128657,Héctor Hurtado,0.5
+1721,Q73694,Thomas William Körner,0.5
+1715,Q711378,John Moore,0.5
+1716,Q56479825,,0.5
+1717,Q158707,Pat Nixon,0.5
+1719,Q4772195,Anthony C. E. Quainton,0.5
+1720,Q57418,Denis Sassou-Nguesso,0.5
+1727,Q21665144,Takeshi Yasukawa,0.5
+1724,Q23933715,Augustus Oscar van Lennep,0.33333333333333
+1725,Q5321716,E. Allan Wendt,0.5
+1726,Q17404098,Robert M. White,0.5
+1712,Q6835141,Michael W. McConnell,0.5
+1714,Q345385,Moktar Ould Daddah,1.0
+1711,Q2866586,Ashraf Marwan,0.5
+1703,Q311652,John Davis,0.5
+1710,Q6902224,Monroe Leigh,0.5
+1697,Q4865317,Barthélémy Bisengimana,0.5
+1699,Q298789,Santiago Carrillo,0.5
+1700,Q270730,Casey Affleck,0.11111111111111
+1702,Q345385,Moktar Ould Daddah,0.33333333333333
+1696,Q151763,K. B. Andersen,0.5
+1706,Q18577390,Tabarak Husain,0.5
+1707,Q1875906,Jacob Koppel Javits,0.5
+1705,Q363383,Armand Hammer,0.5
+1755,Q313258,Dean Rusk,0.5
+1748,Q158707,Pat Nixon,0.5
+1750,Q19162282,Peter Onu,0.5
+1751,Q5490061,"Frank Vincent Ortiz, Jr.",0.5
+1752,Q14356,Park Chung-hee,1.0
+1753,Q4072989,Ахмад Ритхауддин,0.5
+1754,Q709244,Jaime Roldós Aguilera,0.5
+1758,Q55796,Peter Ustinov,0.5
+1756,Q257928,William Scott,0.5
+1757,Q7405291,Sally Shelton-Colby,0.5
+1759,Q233289,Atal Bihari Vajpayee,0.5
+1760,Q215079,Berndt von Staden,0.5
+1761,Q17418825,William H. Williams,0.5
+1762,Q167846,Zayed bin Sultan Al Nahyan,0.5
+1747,Q468481,Ali Murtopo,0.5
+1730,Q1709013,José Ayala Lasso,0.5
+1745,Q191999,Robert McNamara,0.5
+1736,Q529663,Millicent Fenwick,0.5
+1728,Q6286109,Joseph Patrick Addabbo,0.5
+1744,Q5233194,David E. McGiffert,0.5
+1733,Q12647146,Aivaras Bražinskas,0.5
+1734,Q16713577,Dean-Charles Chapman,0.5
+1737,Q203843,Alfonso García Robles,0.5
+1738,Q1290965,Ibrahim Hassan,0.5
+1739,Q712586,Blind Willie Johnson,0.5
+1740,Q45785,Kim Dae-jung,1.0
+1741,Q443979,Eduard Kuznetsov,0.5
+1783,Q16517919,Bill Stewart,0.5
+1779,Q545944,John Richardson,0.5
+1780,Q4409469,Andrey Sakharov,0.5
+1781,Q60206,Ariel Sharon,0.5
+1776,Q43874,Eddie Murphy,0.33333333333333
+1787,Q4859116,Barbara M. Watson,0.5
+1777,Q10800352,Ngô Lợi,0.5
+1767,Q6043151,Ashraf Ghorbal,0.5
+1768,Q56561015,,0.5
+1764,Q1527673,Phillip Burton,0.5
+1763,Q61090161,,0.5
+1765,Q208355,Joaquim Chissano,0.5
+1769,Q6260581,John Thomas Idlet,0.5
+1811,Q5083230,Charles W. Maynes,0.5
+1814,Q911074,Yitzhak Moda'i,0.5
+1815,Q23023712,Jorge Müller Silva,0.5
+1818,Q1399304,Michael O'Kennedy,0.5
+1825,Q3099714,Justin Trudeau,0.5
+1821,Q5437866,Fatima Siad,0.16666666666667
+1822,Q106513,Richard Sonnenfeldt,0.33333333333333
+1823,Q8005,Josep Tarradellas i Joan,0.5
+1824,Q6214181,Robert Toth,0.5
+1827,Q6144710,Nobuhiko Ushiba,0.5
+1828,Q16145851,Barbara Watson,0.5
+1829,Q10886643,Yu Teng-fa,0.5
+1813,Q164535,Mobutu Sese Seko,0.5
+1808,Q7329352,Richard T. Kennedy,0.5
+1789,Q295790,Carlos Andrés Pérez,0.5
+1790,Q718245,Louis Lansana Beavogui,0.5
+1791,Q6279,Joe Biden,0.5
+1792,Q172083,Omar Bongo,0.33333333333333
+1793,Q155764,Robert Brown,0.5
+1795,Q7945355,"W. Beverly Carter, Jr.",0.5
+1794,Q1706385,"Joseph A. Califano, Jr.",0.5
+1803,Q28962325,Sumner Gerard,0.5
+1799,Q338030,Maphevu Dlamini,0.5
+1805,Q34479,Hirohito,1.0
+1804,Q310886,Hissène Habré,0.5
+1801,Q272076,Dean Koontz,0.5
+1800,Q487723,Anatoly Dobrynin,0.25
+1860,Q6135277,James H. Scheuer,0.5
+1852,Q1954907,Robert Novak,0.5
+1853,Q24573099,Bruce D. Patterson,0.25
+1854,Q881892,Russell W. Peterson,0.5
+1855,Q1226051,Dimitris Reppas,0.33333333333333
+1856,Q309816,Richard Roberts,0.33333333333333
+1857,Q21607421,David August Rosenthal,0.090909090909091
+1858,Q367010,Francisco de Sá Carneiro,0.5
+1859,Q1334578,William B. Saxbe,0.5
+1861,Q456527,Mitchell Sharp,0.5
+1864,Q214367,Adolfo Suárez,0.5
+1865,Q16059548,Frank Thompson,0.5
+1866,Q332055,Omar Torrijos,0.25
+1867,Q246716,Bob Wilson,0.5
+1868,Q2776506,Sidney R. Yates,0.5
+1851,Q81144,Petar Mladenov,0.5
+1835,Q6224082,John Bushnell,0.5
+1831,Q269039,Hugo Banzer,0.5
+1830,Q9139969,Adam Maria Szymski,0.5
+1836,Q26255250,Ping-Ping Chen,0.5
+1837,Q289584,Étienne Davignon,0.33333333333333
+1838,Q1451097,François Lefebvre de Laboulaye,0.5
+1833,Q162708,Jean-Bedel Bokassa,0.5
+1840,Q7577189,Spike Dykes,0.5
+1842,Q919448,Gary Hart,0.5
+1844,Q6760877,Mari-Luci Jaramillo,0.5
+1845,Q7327004,Richard Kaufman,0.5
+1846,Q44366,Kim Chi-Ha,0.5
+1847,Q5298504,Dorothy Layton,0.5
+1907,Q880335,Policarpo Paz García,0.5
+1911,Q9200,Paulus von Tarsus,0.5
+1910,Q7299845,Raúl Sáez,0.5
+1908,Q2566177,Juan Pereda,0.5
+1906,Q345385,Moktar Ould Daddah,0.5
+1905,Q27995841,John Newhouse,0.5
+1913,Q380668,Shehu Shagari,0.5
+1923,Q56042537,,0.090909090909091
+1914,Q18397421,Patrick Shaw,0.5
+1915,Q5760636,Hikmat al-Shihabi,0.5
+1920,Q2457300,Trần Đình Hoan,0.11111111111111
+1921,Q1066305,Charles Van Doren,0.5
+1899,Q1385357,James Thomas Lynn,0.5
+1924,Q981844,Ebrahim Yazdi,0.5
+1925,Q981844,Ebrahim Yazdi,0.5
+1926,Q5490549,Frank Zarb,0.5
+1927,Q200499,Muhammad Zia-ul-Haq,0.5
+1900,Q45905764,Graham Martin,0.5
+1918,Q13894,Richard Strauss,0.5
+1883,Q313531,Juan María Bordaberry,0.5
+1872,Q3160893,James E. Akins,0.5
+1873,Q57555,Sabah Al-Ahmad Al-Jaber Al-Sabah,0.5
+1875,Q736289,Ernesto Melo Antunes,0.5
+1877,Q5274594,Diego C. Asencio,0.5
+1879,Q6293009,José Manuel García Bedoya,0.5
+1880,Q1335058,Griffin Bell,0.5
+1882,Q16018988,Richard J. Bloomfield,0.5
+1874,Q1349404,John Anderson,0.5
+1896,Q12488461,Kaharuddin Nasution,0.33333333333333
+1893,Q1361114,"Thomas S. Gates, Jr.",0.5
+1892,Q1383799,John Gardner,0.5
+1894,Q12609621,William Henry Gleysteen,0.5
+1890,Q314312,Michel Fokine,0.33333333333333
+1889,Q82593,José María Figueres Olsen,0.5
+1886,Q5301748,Douglas M. Costle,0.5
+1951,Q26924824,Patrick Moberly,0.5
+1959,Q4058284,Azeredo da Silveira,0.5
+1954,Q39073776,George Papadopoulos,0.5
+1955,Q252657,Georgios Rallis,0.5
+1958,Q442464,Hjalmar Siilasvuo,0.33333333333333
+1960,Q1026663,Gerard C. Smith,0.5
+1962,Q983528,Louis Stokes,0.5
+1963,Q12483574,Gatot Suherman,0.5
+1964,Q15486156,Irene Thomas,0.5
+1966,Q10834006,Vương Văn Bắc,0.5
+1967,Q3503484,Frank Walus,0.5
+1968,Q7459238,Seymour Weiss,0.5
+1948,Q380909,Manea Mănescu,0.5
+1936,Q7421679,Sara L.M. Davis,0.2
+1930,Q23613030,Jane Bissell Grabhorn,0.5
+1931,Q1122967,Hugo Blanco,0.5
+1933,Q12200303,P. J. Byrne,0.5
+1929,Q477373,Robert Barry,0.5
+1943,Q66107,Henry Kissinger,0.5
+1945,Q3807785,Jeff Long,0.5
+1944,Q2634288,William Lehman,0.5
+1946,Q705460,Fernando Romeo Lucas García,0.5
+1941,Q6140785,James P. Grant,0.5
+1940,Q155385,Gnassingbé Eyadéma,0.5
+1939,Q1239102,Don Edwards,0.5
+1991,Q881892,Russell W. Peterson,0.5
+1992,Q326308,William Mitchell Ramsay,0.5
+1994,Q1384543,Theodore Robinson,0.25
+1995,Q963898,Dan Rostenkowski,0.5
+2000,Q4352385,Wilhelm Wachtmeister,0.5
+1997,Q1612559,Hermann Schacht,0.5
+1998,Q470950,Edward Seaga,0.5
+1999,Q10371057,Shigeaki Ueki,0.5
+2002,Q910302,Paul Graham Wilson,0.5
+1987,Q7412007,Samuel Lewis,0.5
+1988,Q16010974,John M. Lynch,0.5
+1969,Q238046,Ahmed Hassan al-Bakr,0.5
+1986,Q31801704,Mitchell P. Kobelinski,0.5
+1977,Q5301748,Douglas M. Costle,0.5
+1985,Q8014044,William Kintner,0.5
+1974,Q708795,Ramsey Clark,0.5
+1975,Q7781744,Theodore Cooper,0.5
+1978,Q7965401,Walter L. Cutler,0.5
+1980,Q48337,Morgan Freeman,0.33333333333333
+1983,Q63827,Babrak Karmal,0.5
+1984,Q11518942,Arika Kimura,0.33333333333333
+1979,Q53721,Thorbjörn Fälldin,0.5
+2041,Q244395,Seán MacBride,0.5
+2033,Q156806,Konstantinos Karamanlis,0.5
+2037,Q1371282,José López Rega,0.5
+2034,Q44366,Kim Chi-Ha,1.0
+2032,Q42296957,William H. Jordan,0.5
+2044,Q2094491,Tip O'Neill,0.5
+2047,Q3783448,Harold Rosenthal,0.5
+2050,Q6144913,James W. Spain,0.5
+2051,Q7363350,Romuald Spasowski,0.5
+2055,Q129399,Charles W. Whalen,0.5
+2056,Q4261785,Widjojo Nitisastro,1.0
+2031,Q15511929,John Granger,0.5
+2004,Q42390501,Blanca Acosta,0.5
+2006,Q7517560,Simeon Aké,0.5
+2007,Q6836265,Michel Alladaye,0.5
